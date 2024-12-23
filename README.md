@@ -41,3 +41,4 @@ To run Picasso, run `picasso.Main`
 
 This code base originated as a project in a course at Duke University.  The professors realized that the code could be designed better and refactored.  This code base has some code leftover from the original version.
 
+# picasso-visionaries
